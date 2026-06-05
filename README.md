@@ -190,14 +190,4 @@ dynamic-designs/
 | Body Font | DM Sans |
 | Mono Font | DM Mono |
 
----
 
-## 📝 Submission
-
-- **GitHub:** Push this entire folder to a new repository
-- **Deployment:** Deploy to Vercel or Netlify
-- **Submit:** [https://forms.gle/nJBNMeFKhTiMUpNa6](https://forms.gle/nJBNMeFKhTiMUpNa6)
-
----
-
-Built with ❤️ by Dynamic Designs Studio
