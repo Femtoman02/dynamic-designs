@@ -5,18 +5,18 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
 - **Styling:** Tailwind CSS
 - **Email:** EmailJS (no backend required)
 - **Animations:** CSS + Intersection Observer API
 - **Fonts:** Playfair Display + DM Sans + DM Mono
-- **Deployment:** Vercel (recommended)
+- **Deployment:** Vercel
 
 ---
 
-## 📄 Pages
+## Pages
 
 | Page | Route |
 |------|-------|
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚙️ Local Setup
+##  Local Setup
 
 ### 1. Install dependencies
 
@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📧 EmailJS Setup (Contact Form)
+##  EmailJS Setup (Contact Form)
 
 The contact form uses **EmailJS** — free, no backend required.
 
@@ -120,7 +120,7 @@ Follow the prompts, then add environment variables in the Vercel dashboard.
 
 ### Option B — GitHub → Vercel
 
-1. Push this repo to GitHub
+1. Pushing this repo to GitHub
 2. Go to [vercel.com](https://vercel.com) → New Project → Import from GitHub
 3. Select your repo
 4. Add environment variables:
@@ -133,7 +133,7 @@ Follow the prompts, then add environment variables in the Vercel dashboard.
 
 ## 🚢 Deployment on Netlify
 
-1. Push this repo to GitHub
+1. Pushing this repo to GitHub
 2. Go to [netlify.com](https://netlify.com) → Add New Site → Import from GitHub
 3. Build settings:
    - Build command: `npm run build`
@@ -143,7 +143,7 @@ Follow the prompts, then add environment variables in the Vercel dashboard.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 dynamic-designs/
@@ -178,7 +178,7 @@ dynamic-designs/
 
 ---
 
-## 🎨 Brand
+## Brand
 
 | Element | Value |
 |---------|-------|
