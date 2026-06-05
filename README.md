@@ -107,7 +107,7 @@ The contact form uses **EmailJS** — free, no backend required.
 
 ---
 
-## 🚢 Deployment on Vercel
+## Deployment on Vercel
 
 ### Option A — Vercel CLI
 
@@ -131,7 +131,7 @@ Follow the prompts, then add environment variables in the Vercel dashboard.
 
 ---
 
-## 🚢 Deployment on Netlify
+##  Deployment on Netlify
 
 1. Pushing this repo to GitHub
 2. Go to [netlify.com](https://netlify.com) → Add New Site → Import from GitHub
